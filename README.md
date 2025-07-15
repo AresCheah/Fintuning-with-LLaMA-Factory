@@ -1,4 +1,4 @@
-# Fine-tuning and Deployment of LLaMA-Factory with FastAPI
+# Fine-tuning and Deployment of a llm with llama-factory and FastAPI
 
 This guide covers the full pipeline of fine-tuning a language model using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), and deploying it with FastAPI for serving inference.
 
